@@ -8,3 +8,18 @@ This repo is a hub for my UE5 C++ projects:
 - Battle Blaster – [Repo link](https://github.com/acosta3/BattleBlaster)
 - Simple Shooter – [Repo link](https://github.com/acosta3/ShooterAnt)
 
+
+## What I Learned Building These Unreal Engine 5 Projects
+
+Across these projects, I implemented core gameplay systems in Unreal Engine 5 (C++ and Blueprints), including:
+
+- Moving and rotating platforms  
+- Trigger volumes and pressure plates  
+- Collectable items  
+- Projectiles and line trace bullets  
+- Health and damage systems  
+- Level management  
+- Third-person movement and animations  
+- Enemy AI using behavior trees  
+
+These mechanics were built across multiple small games in this portfolio.
